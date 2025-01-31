@@ -5,7 +5,7 @@ This project performs object detection with integrated depth estimation and voic
 
 ## Video Demonstration
 <a href="https://www.youtube.com/watch?v=mof2MxJGkNM">
-  <img src="https://img.youtube.com/vi/mof2MxJGkNM/0.jpg" width="600" height="340" />
+  <img src="https://img.youtube.com/vi/mof2MxJGkNM/0.jpg" width="100%" />
 </a>
 
 ## Setup Instructions
