@@ -3,6 +3,9 @@
 ## Overview
 This project performs object detection with integrated depth estimation and voice feedback to assist visually impaired individuals. It utilizes YOLO for object detection, MiDaS and Stereo Vision for depth estimation, and a text-to-speech module for audio feedback.
 
+## Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/mof2MxJGkNM/0.jpg)](https://www.youtube.com/watch?v=mof2MxJGkNM)
+
 ## Setup Instructions
 
 ### Prerequisites
